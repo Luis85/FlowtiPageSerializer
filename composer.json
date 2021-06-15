@@ -1,0 +1,16 @@
+{
+    "name": "luis/flowti-page-serializer",
+    "description": "A ProcessWire module to serialize Page Objects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Mendez",
+            "email": "hallo@luis-mendez.de"
+        }
+    ],
+    "require": {
+        "symfony/serializer": "^5.3",
+        "symfony/property-access": "^5.3"
+    }
+}
